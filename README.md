@@ -1,5 +1,5 @@
 
-# **Plant Leaf Disease Detection**
+# **Plant Leaf Disease Detection using AI**
 
 This application uses **Deep Learning** to detect diseases in plant leaves through **Computer Vision** and **Machine Learning** techniques.
 
@@ -89,7 +89,9 @@ Below is a visualization of the **Convolutional Neural Network (CNN)** architect
 
 ---
 
-## **Model Details**
+## **Dataset and Model Details**
+
+The dataset is curated from different sources online, and can be seen [here](https://drive.google.com/drive/folders/1f_EG4p3DtMNB1YKx7NAfJwGVB_fuqwzx?usp=sharing).
 
 The model uses a **Convolutional Neural Network (CNN)** architecture with:
 - **Input Image Size**: 224x224 pixels.  
